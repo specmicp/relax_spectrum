@@ -1,0 +1,3 @@
+*.pyc
+.spyproject
+relax_spectrum.egg-info/*
